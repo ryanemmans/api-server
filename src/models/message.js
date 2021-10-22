@@ -9,7 +9,7 @@ const message = (sequelize, DataTypes) => sequelize.define('message', {
     type: DataTypes.UUID,
     // defaultValue: sequelize.UUID(),
     allowNull: false,
-  }
+  },
 });
 
 module.exports = message;

@@ -8,7 +8,7 @@ const channel = (sequelize, DataTypes) => sequelize.define('channel', {
   topic: {
     type: DataTypes.STRING,
     allowNull: true,
-  }
+  },
 });
 
 module.exports = channel;
