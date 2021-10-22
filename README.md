@@ -16,7 +16,7 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 
 - [Heroku Main Branch](https://ryanemmans-api-server.herokuapp.com/)
 - [GitHub Actions](https://github.com/ryanemmans/api-server/actions)
-- [Pull Requests](https://github.com/ryanemmans/basic-express-server/pulls?q=is%3Apr+is%3Aclosed)
+- [Pull Requests](https://github.com/ryanemmans/api-server/pulls?q=is%3Apr+is%3Aclosed)
 
 ## UML
 
